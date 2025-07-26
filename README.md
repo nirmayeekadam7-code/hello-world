@@ -18,6 +18,7 @@ Add Your Resource: Add a link to your favorite resource at the bottom of the lis
 * [Name of the Resource](https://link-to-the-resource.com/) - A brief description of why it's great.
 
 Nirmayee kadam 
+nik_code7
 
 
 Commit Your Changes: Scroll to the bottom of the page. In the "Commit changes" box, write a short, clear message that describes your contribution. For example: Add The Odin Project to the list. Then, click the green Commit changes button.
