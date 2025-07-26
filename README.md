@@ -15,7 +15,7 @@ Edit the File: In your newly forked repository, click on this README.md file and
 
 Add Your Resource: Add a link to your favorite resource at the bottom of the list. Please try to follow this format:
 
-* [Name of the Resource](https://link-to-the-resource.com/) - A brief description of why it's great way of approach. 
+* [Name of the Resource](https://link-to-the-resource.com/) - A brief description of why it's great way of approach. why isn't it commiting.
 
 nirmayee kadam 
 nik_code7
